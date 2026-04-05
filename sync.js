@@ -1,6 +1,6 @@
 
 // REPLACE THIS WITH YOUR GAS WEB APP URL
-const API_URL = 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL';
+const API_URL = 'https://script.google.com/macros/s/AKfycbzAgTASBUwNNZKTbMiJ_wzHBFdSJOLdxVvIuSnvRUQQEZqA19GV0d6o441Yn-Q1bH_YCw/exec';
 
 class SyncEngine {
   static async pullData() {
